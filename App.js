@@ -76,5 +76,6 @@ const menuStyles = StyleSheet.create({
     color: "#495E57",
     fontSize: 30,
     textAlign: "center",
+    paddingTop: 30,
   },
 });
